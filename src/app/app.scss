@@ -1,4 +1,29 @@
 // http://ionicframework.com/docs/theming/
+.avatarperfil{
+    width:100% !important; 
+    height : 100% !important;
+    min-width: 100px;
+    min-height: 100px;  
+    max-width: 100px !important;  
+    max-height: 100px !important;
+    border: 0.5px solid;
+    border-color: darkkhaki;
+    margin: auto;
+} 
+
+.item-content{
+    background-image: url(../assets/imgs/portada.jpg);
+}
+
+.col{
+    border-bottom: 0.2px solid white;
+}
+
+.transparent {
+    background-color: transparent !important;
+    color: white;
+}
+
 
 
 // App Global Sass
